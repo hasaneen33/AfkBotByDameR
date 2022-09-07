@@ -1,7 +1,7 @@
 {
 	"ip":"adons44.aternos.me",
 	"port": 31654,
-	"name": "fuckerbot",
+	"name": "bot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
